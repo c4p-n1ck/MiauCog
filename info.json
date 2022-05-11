@@ -4,5 +4,6 @@
     "name" : "MiauCog",
     "short" : "Cats Cog.",
     "description" : "Miau miau miau miau miau miau miau miau miau miau miau miau miau.",
+    "requirements": "git+https://github.com/davidlatwe/montydb aiohttp",
     "tags" : ["miau", "cat"]
 }
